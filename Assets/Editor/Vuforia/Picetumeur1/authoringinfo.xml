@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="10.3.2">
+<ModelTarget name="Picetumeur1" targetId="e667b5e6ccfb4344960fdd09f9bcc71f" version="14.0" toolVersion="10.3.2" bbox="-0.084938 -0.022045 -0.259661 0.048530 0.105425 -0.119990" previewImage="e667b5e6ccfb4344960fdd09f9bcc71f_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Picetumeur1s_assembly" assemblyId="928747a08bb8474dad29e2736b2fef13">
+<Part name="Picetumeur1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.149816 0.0997756 0.213798" rotation="AD: 0.9988341276131237 0.12820157397562745 -0.4270795577326665 210.657" image="Picetumeur1_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

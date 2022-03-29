@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="10.3.2">
+<ModelTarget name="Picetumeur_Hololens" targetId="42966d6411334017bebcb1c563d9ff80" version="14.0" toolVersion="10.3.2" bbox="-0.084938 -0.022045 -0.259661 0.048530 0.105425 -0.119990" previewImage="42966d6411334017bebcb1c563d9ff80_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Picetumeur_Hololenss_assembly" assemblyId="5b8cf7146b9948a4a255c93955aea9d3">
+<Part name="Picetumeur_Hololens" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.102964 0.0909991 0.18914" rotation="AD: 0.9999571927548186 0.03987798628620065 -0.24193070042612858 198.191" image="Picetumeur_Hololens_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.163324 0.105689 0.316239" rotation="AD: 0.9888750293078421 -0.32822746568138234 0.5973978318986921 228.681" image="Picetumeur_Hololens_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

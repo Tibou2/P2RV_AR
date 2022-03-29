@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="28.0" toolVersion="10.3.2">
+<ModelTarget name="yapls" targetId="c08346987a6943a6b0c2edc9615ce3e6" version="14.0" toolVersion="10.3.2" bbox="-0.084938 -0.022045 -0.259661 0.048530 0.105425 -0.119990" previewImage="c08346987a6943a6b0c2edc9615ce3e6_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="yaplss_assembly" assemblyId="73fdf5686b184952b949dfe3786ff548">
+<Part name="yapls" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.122545 0.0779307 0.186642" rotation="AD: 0.9997009911747673 -0.06392312766722315 0.4195094335650285 195.969" image="yapls_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

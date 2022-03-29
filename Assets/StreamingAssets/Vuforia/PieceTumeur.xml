@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="yapls" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="yaplss_assembly" assemblyId="73fdf5686b184952b949dfe3786ff548">
+<Part name="yapls" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.122545 0.0779307 0.186642" rotation="AD: 0.9997009911747673 -0.06392312766722315 0.4195094335650285 195.969" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

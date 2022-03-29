@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="10.3.2">
+<ModelTarget name="tumeur_decimee" targetId="103451a385a740cfb171f3d3cd705929" version="14.0" toolVersion="10.3.2" bbox="-84.949188 -21.877405 -259.503174 48.510334 105.395248 -120.196724" previewImage="103451a385a740cfb171f3d3cd705929_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="tumeur_decimees_assembly" assemblyId="e5b4cf6a75bf41d695a422adc6a4a872">
+<Part name="tumeur_decimee" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-102.983 91.0425 128.361" rotation="AD: 0.9999572592806977 0.03984949416266761 -0.24191034294690028 198.179" image="tumeur_decimee_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

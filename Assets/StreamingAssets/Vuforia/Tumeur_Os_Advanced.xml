@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Tumeur_Os_Advanced" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Tumeur_Os_Advanceds_assembly" assemblyId="da265a57d1ef4e00bc6a1c2719cc3cc3">
+<Part name="Tumeur_Os_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0419742 -0.14075 0.160737" rotation="AD: 0.9988756086462325 0.1344168964828068 -0.40036210944597683 214.367" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.0387585 -0.171517 0.186728" rotation="AD: 0.9789599085327789 -0.26575767976038256 1.2413752902053838 194.896" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
