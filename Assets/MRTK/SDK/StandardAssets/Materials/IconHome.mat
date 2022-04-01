@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: IconHome
   m_Shader: {fileID: 4800000, guid: 5bdea20278144b11916d77503ba1467a, type: 3}
-  m_ShaderKeywords: _ALPHATEST_ON _DIRECTIONAL_LIGHT _HOVER_LIGHT _REFLECTIONS _SPECULAR_HIGHLIGHTS
+  m_ShaderKeywords: _ALPHATEST_ON _HOVER_LIGHT _SPECULAR_HIGHLIGHTS
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -88,7 +88,7 @@ Material:
     - _CustomMode: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _DirectionalLight: 1
+    - _DirectionalLight: 0
     - _DstBlend: 0
     - _EdgeSmoothingValue: 0.002
     - _EnableChannelMap: 0
@@ -129,7 +129,7 @@ Material:
     - _ProximityLight: 0
     - _ProximityLightSubtractive: 0
     - _ProximityLightTwoSided: 0
-    - _Reflections: 1
+    - _Reflections: 0
     - _Refraction: 0
     - _RefractiveIndex: 0
     - _RenderQueueOverride: -1

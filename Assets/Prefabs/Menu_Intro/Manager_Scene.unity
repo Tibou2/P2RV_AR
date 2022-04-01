@@ -295,7 +295,7 @@ MonoBehaviour:
     Name: Intro
     Path: Assets/Prefabs/Menu_Intro/Intro.unity
     Included: 1
-    BuildIndex: 2
+    BuildIndex: 1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 7259aa150d34a28488e8b18381d1d1ce, type: 3}
   loadOnStartup: 1

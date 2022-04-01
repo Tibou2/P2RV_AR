@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Picetumeur_Standard" motionHint="static" trackingMode="scan"/>
+
+</Tracking>
+
+<Assembly name="Picetumeur_Standards_assembly" assemblyId="ca70b1700e744894aadcbcb5a2ff8476">
+<Part name="Picetumeur_Standard" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.102964 0.0909991 0.176521" rotation="AD: 0.9999571927548186 0.03987798628620065 -0.24193070042612858 198.191" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="-0.186152 0.0240209 0.368764" rotation="AD: -0.9881952916125939 -0.20797044118523125 1.1180412140900629 166.088" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="-0.0174769 -0.0320114 0.506922" rotation="AD: -0.44561493024116955 -0.9157802593407247 4.742305148968127 177.967" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.190696 0.0407852 0.323803" rotation="AD: 0.9961487816284669 -0.11927092279850647 1.0942547232333675 188.366" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.190649 0.00176752 0.273289" rotation="AD: 0.8887387695209668 0.8275882156091112 0.9563417440900293 127.095" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="0.176215 0.0716131 0.35901" rotation="AD: -0.9535532222567183 0.7270813517427783 -0.7056581975284785 109.544" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

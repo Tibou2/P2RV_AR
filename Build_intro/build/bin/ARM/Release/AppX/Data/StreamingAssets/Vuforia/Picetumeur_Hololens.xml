@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Picetumeur_Hololens" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Picetumeur_Hololenss_assembly" assemblyId="5b8cf7146b9948a4a255c93955aea9d3">
+<Part name="Picetumeur_Hololens" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.102964 0.0909991 0.18914" rotation="AD: 0.9999571927548186 0.03987798628620065 -0.24193070042612858 198.191" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0001" translation="0.163324 0.105689 0.316239" rotation="AD: 0.9888750293078421 -0.32822746568138234 0.5973978318986921 228.681" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

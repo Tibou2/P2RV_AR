@@ -55,7 +55,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 199373ce94b1ad345842b91663443511, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  camTransform: {fileID: 0}
 --- !u!1001 &7252725949416537528
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -628,6 +627,7 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 6742094791252829598, guid: 64790b91b91094d49942373c4e83c237, type: 3}
     - {fileID: 860107446334295054, guid: 64790b91b91094d49942373c4e83c237, type: 3}
+    - {fileID: 8588884924608829607, guid: 64790b91b91094d49942373c4e83c237, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 64790b91b91094d49942373c4e83c237, type: 3}
 --- !u!1 &4122588813079353383 stripped
 GameObject:

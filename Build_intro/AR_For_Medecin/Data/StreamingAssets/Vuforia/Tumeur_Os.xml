@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Tumeur_Os" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Tumeur_Oss_assembly" assemblyId="d9c3e7f96a8c4bc5b2d74ddfe044b4ae">
+<Part name="Tumeur_Os" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0517116 -0.184302 0.307146" rotation="AD: 0.9995206075547345 -0.040666588238468436 1.1753273563412885 182.567" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0002" translation="0.182632 0.0125426 0.293164" rotation="AD: -0.9430737005662584 -0.6010308692943658 -0.9847522323247994 113.716" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0003" translation="0.200559 0.0112413 0.349037" rotation="AD: -0.9935521880795052 -0.157235024355881 -3.144630156917251 98.41" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0004" translation="0.187508 -0.0688497 0.312572" rotation="AD: 0.9052453994520859 0.8411101593495944 -0.8094914677815521 134.395" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0005" translation="0.010244 -0.0349098 0.496321" rotation="AD: 0.9958914645847678 0.34070653060256784 0.4075047046889026 94.811" trained="no">
+
+</EntryPoint>
+<EntryPoint name="viewpoint_0006" translation="0.191823 0.0274084 0.341381" rotation="AD: 0.5106985023789019 1.3294004709724005 -8.846855977196174 81.8474" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

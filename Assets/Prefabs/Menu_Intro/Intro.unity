@@ -1359,23 +1359,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2701701781877227748, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: contentScene.Name
-      value: SampleScene
+      value: Menu_Principal
       objectReference: {fileID: 0}
     - target: {fileID: 2701701781877227748, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: contentScene.Path
-      value: Assets/Scenes/SampleScene.unity
+      value: Assets/Scenes/Menu_Principal.unity
       objectReference: {fileID: 0}
     - target: {fileID: 2701701781877227748, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: contentScene.Asset
       value: 
-      objectReference: {fileID: 102900000, guid: 9fc0d4010bbf28b4594072e72b8655ab, type: 3}
+      objectReference: {fileID: 102900000, guid: 08f71084624e9c844a91b7ff4a2c0e86, type: 3}
     - target: {fileID: 2701701781877227748, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: contentScene.Included
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2701701781877227748, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: contentScene.BuildIndex
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4985151974091181104, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: SceneToLoad
@@ -1609,6 +1609,7 @@ GameObject:
   - component: {fileID: 1838340535}
   - component: {fileID: 1838340534}
   - component: {fileID: 1838340533}
+  - component: {fileID: 1838340538}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1738,6 +1739,18 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!114 &1838340538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1838340531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b9c599bb8dcccf448a8788e94533644, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2072853849
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1896,6 +1909,14 @@ PrefabInstance:
     - target: {fileID: 2689110609528677567, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: voiceRequiresFocus
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2689110609528677567, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 11500000, guid: be8ae8c783b65d646a58734cf41c7335, type: 3}
+    - target: {fileID: 2689110609528677567, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2701701781877227748, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: contentName
@@ -2119,7 +2140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2701701781877227748, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: contentScene.BuildIndex
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4985151974091181104, guid: 97e77b91a85a1c844aee31efd81859a2, type: 3}
       propertyPath: SceneToLoad

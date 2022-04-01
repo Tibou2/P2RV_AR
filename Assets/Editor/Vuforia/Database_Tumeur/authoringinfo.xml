@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="28.0" toolVersion="10.3.2">
+<ModelTarget name="Tumeur_Os_Advanced" targetId="c88d9b4404d84da7a8b6c17303897dc9" version="14.0" toolVersion="10.3.2" bbox="-0.084938 -0.259661 -0.105448 0.048530 -0.119990 0.022022" previewImage="c88d9b4404d84da7a8b6c17303897dc9_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Tumeur_Os_Advanceds_assembly" assemblyId="da265a57d1ef4e00bc6a1c2719cc3cc3">
+<Part name="Tumeur_Os_Advanced" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0387585 -0.171517 0.186728" rotation="AD: 0.9789599085327789 -0.26575767976038256 1.2413752902053838 194.896" image="Tumeur_Os_Advanced_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

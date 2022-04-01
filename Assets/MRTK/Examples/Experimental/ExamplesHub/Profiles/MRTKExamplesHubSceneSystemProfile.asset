@@ -123,7 +123,7 @@ MonoBehaviour:
     Asset: {fileID: 102900000, guid: bf3eb3415bffceb41810526380c2c71c, type: 3}
   - Name: ScrollingObjectCollection
     Path: Assets/MRTK/Examples/Demos/ScrollingObjectCollection/Scenes/ScrollingObjectCollection.unity
-    Included: 1
+    Included: 0
     BuildIndex: -1
     Tag: Untagged
     Asset: {fileID: 102900000, guid: 79a0bb4c0426b7a4099c35eeced52ee4, type: 3}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="tumeur_decimee" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="tumeur_decimees_assembly" assemblyId="e5b4cf6a75bf41d695a422adc6a4a872">
+<Part name="tumeur_decimee" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-102.983 91.0425 128.361" rotation="AD: 0.9999572592806977 0.03984949416266761 -0.24191034294690028 198.179" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

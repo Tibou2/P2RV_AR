@@ -535,7 +535,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AdvancedPrerfab: {fileID: 5444481719449558925, guid: 61ea8f23d4e23c84a97f4c4381ed9f11, type: 3}
-  StandardPrefab: {fileID: 8839117086356187597, guid: e969038e4d67d9b498de2ef538969506, type: 3}
+  StandardPrefab: {fileID: 5444481719449558925, guid: 61ea8f23d4e23c84a97f4c4381ed9f11, type: 3}
   MainMenu: {fileID: 7195799455199942684, guid: 39670c6ad031ef149bbd614c27880a16, type: 3}
 --- !u!1001 &4650336335013562356
 PrefabInstance:
